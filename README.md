@@ -1,5 +1,14 @@
 # About Research and Publications
 
+### Author: ProxyToken (CVE-2021-33766) : An Authentication Bypass in Microsoft Exchange Server POC exploit - September 2021
+
+#### https://github.com/bhdresh/CVE-2021-33766-ProxyToken
+
+### Author: A security flaw in WhatsApp leaks IP addresses - July 2021
+
+#### https://techbriefly.com/2021/07/14/this-security-flaw-in-whatsapp-could-leak-your-ip-address/
+#### https://newsbeezer.com/colombiaeng/the-latest-version-of-whatsapp-can-filter-the-public-ip-of-anyone-who-answers-a-call/
+
 ### Author: ManageEngine ADSelfService Build prior to 6003 - Remote Code Execution - 8th August 2020
 
 #### https://its.ny.gov/security-advisory/vulnerability-zoho-manageengine
